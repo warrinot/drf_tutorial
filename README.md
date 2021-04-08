@@ -1,2 +1,2 @@
 # drf_tutorial
-Code from django-rest-framework tutorial
+Code from following django-rest-framework tutorial
